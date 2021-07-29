@@ -1,0 +1,11 @@
+{
+  "problemData":[
+    { "user_type":"doctor", "title":"Diabetes", "type":"Confirmed", "picture":null, "isFlagged":true, "createdDate":"Dec 17, 2020" },
+    { "user_type":"doctor", "title":"Disorder of the peripheral nervous system", "type":"Confirmed" , "picture":null, "isFlagged":false, "createdDate":"Dec 17, 2020"},
+    { "user_type":"caregive", "title":"Respiratory problems", "type":"Confirmed", "picture":null, "isFlagged":true, "createdDate":"Dec 17, 2020" },
+    { "user_type":"doctor", "title":"Headache", "type":"Possible", "picture":null, "isFlagged":true, "createdDate":"Dec 17, 2020" },
+    {"user_type":"doctor", "title":"Depressive disorder", "type":"inactive", "picture":null, "isFlagged":false, "createdDate":"Dec 17, 2020" },
+    { "user_type":"patient", "title":"Respiratory problems", "type":"Confirmed", "picture":null, "isFlagged":false, "createdDate":"Dec 17, 2020" },
+    { "user_type":"doctor", "title":"Depressive disorder", "type":"Possible", "picture":null, "isFlagged":true, "createdDate":"Dec 17, 2020" }
+  ]
+}

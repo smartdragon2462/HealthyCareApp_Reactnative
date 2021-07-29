@@ -1,0 +1,178 @@
+{
+  "events": [
+    {
+      "ID": 4,
+      "CreatedAt": "2021-02-26T19:25:06.157354+03:00",
+      "UpdatedAt": "2021-02-26T19:25:06.157354+03:00",
+      "DeletedAt": null,
+      "clients": [
+        {
+          "id": 124784657,
+          "name": "Phill Reynolds",
+          "phone": "123456789",
+          "type": "user",
+          "invitation_status": "Pending confirmation",
+          "is_essential": true,
+          "photo":""
+        }
+      ],
+      "doctor_id": 3,
+      "slots": [ 
+          { "start_time": "2021-02-26T09:00:00",   "end_time": "2021-02-26T09:05:00"},  
+          { "start_time": "2021-02-26T09:05:00",   "end_time": "2021-02-26T09:10:00"},
+          { "start_time": "2021-02-26T09:10:00",   "end_time": "2021-02-26T09:15:00"}
+      ],
+      "date": "0001-01-01T02:30:17+02:30",
+      "type": "appointment",
+      "status": "Pending confirmation",
+      "comment": "blabla"
+    },
+    {
+      "ID": 6,
+      "CreatedAt": "2021-02-26T22:46:32.424562+03:00",
+      "UpdatedAt": "2021-02-26T22:46:32.424562+03:00",
+      "DeletedAt": null,
+      "clients": [
+        {
+          "id": 124784658,
+          "name": "Grasd Reynolds",
+          "phone": "12345asd61",
+          "type": "user",
+          "invitation_status": "Confirmed",
+          "is_essential": true,
+          "photo":""
+        },
+        {
+          "id": 124784659,
+          "name": "Frasr Reynolds",
+          "phone": "12345asd62",
+          "type": "user",
+          "invitation_status": "Pending confirmation",
+          "is_essential": false,
+          "photo":""
+        },
+        {
+          "id": 124784610,
+          "name": "Hyefr Reynolds",
+          "phone": "12345asd63",
+          "type": "user",
+          "invitation_status": "Declined",
+          "is_essential": false,
+          "photo":""
+        }
+      ],
+      "doctor_id": 3,
+      "slots": [ 
+          { "start_time": "2021-02-26T10:00:00",   "end_time": "2021-02-26T10:05:00"},  
+          { "start_time": "2021-02-26T10:05:00",   "end_time": "2021-02-26T10:10:00"},
+          { "start_time": "2021-02-26T10:10:00",   "end_time": "2021-02-26T10:15:00"}
+      ],
+      "date": "0001-01-01T02:30:17+02:30",
+      "type": "meeting",
+      "status": "Confirmed",
+      "comment": "blabla"
+    },
+    {
+      "ID": 7,
+      "CreatedAt": "2021-02-26T22:46:32.424562+03:00",
+      "UpdatedAt": "2021-02-26T22:46:32.424562+03:00",
+      "DeletedAt": null,
+      "clients": [
+        {
+          "id": 547567345,
+          "name": "Grasd Reynolds",
+          "phone": "12345asd61",
+          "type": "user",
+          "invitation_status": "Confirmed",
+          "is_essential": true,
+          "photo":""
+        }          
+      ],
+      "doctor_id": 3,
+      "slots": [ 
+          { "start_time": "2021-02-26T11:00:00",   "end_time": "2021-02-26T11:05:00"},  
+          { "start_time": "2021-02-26T11:05:00",   "end_time": "2021-02-26T11:10:00"},
+          { "start_time": "2021-02-26T11:10:00",   "end_time": "2021-02-26T11:15:00"}
+      ],
+      "date": "0001-01-01T02:30:17+02:30",
+      "type": "meeting",
+      "status": "Confirmed",
+      "comment": "blabla"
+    },
+    {
+      "ID": 8,
+      "CreatedAt": "2021-02-26T22:46:32.424562+03:00",
+      "UpdatedAt": "2021-02-26T22:46:32.424562+03:00",
+      "DeletedAt": null,
+      "clients": [
+        {
+          "id": 124784662,
+          "name": "Dr. Muray",
+          "phone": "12345asd6",
+          "type": "user",
+          "invitation_status": "Confirmed",
+          "is_essential": true,
+          "photo":""
+        },
+        {
+          "id": 5334577,
+          "name": "Frasr Reynolds",
+          "phone": "12345asd62",
+          "type": "user",
+          "invitation_status": "Pending confirmation",
+          "is_essential": false,
+          "photo":""
+        },
+        {
+          "id": 8456433,
+          "name": "Hyefr Reynolds",
+          "phone": "12345asd63",
+          "type": "user",
+          "invitation_status": "Declined",
+          "is_essential": false,
+          "photo":""
+        }
+      ],
+      "doctor_id": 3,
+      "slots": [ 
+          { "start_time": "2021-02-26T14:00:00",   "end_time": "2021-02-26T14:05:00"},  
+          { "start_time": "2021-02-26T14:05:00",   "end_time": "2021-02-26T14:10:00"},
+          { "start_time": "2021-02-26T14:10:00",   "end_time": "2021-02-26T14:15:00"}
+      ],
+      "date": "0001-01-01T02:30:17+02:30",
+      "type": "appointment",
+      "status": "Confirmed",
+      "comment": "blabla"
+    },
+    {
+      "ID": 9,
+      "CreatedAt": "2021-02-26T22:46:32.424562+03:00",
+      "UpdatedAt": "2021-02-26T22:46:32.424562+03:00",
+      "DeletedAt": null,
+      "clients": [
+        {
+          "id": 124784663,
+          "name": "Hrarsy Reynolds",
+          "phone": "12345asd6",
+          "type": "user",
+          "invitation_status": "Confirmed",
+          "is_essential": true,
+          "photo":""
+        }
+      ],
+      "doctor_id": 3,
+      "slots": [ 
+          { "start_time": "2021-02-26T16:00:00",   "end_time": "2021-02-26T16:05:00"},  
+          { "start_time": "2021-02-26T16:05:00",   "end_time": "2021-02-26T16:10:00"},
+          { "start_time": "2021-02-26T16:10:00",   "end_time": "2021-02-26T16:15:00"}
+      ],
+      "date": "0001-01-01T02:30:17+02:30",
+      "type": "appointment",
+      "status": "Pending confirmation",
+      "comment": "blabla"
+    }
+  ],
+  "message": "Get Events",
+  "status": true
+}
+  
